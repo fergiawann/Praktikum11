@@ -31,9 +31,14 @@ Setelah kita menginstall 3 library diatas, kita akan memasukkan library pandas d
 
 ![ss4](https://user-images.githubusercontent.com/115530180/213092310-034f32ee-9e55-4fbd-86df-c83c63d4779c.png)
 
+### Challenge
+Lalu selanjutnya kita akan membuat program untuk mengambil data lowongan kerja dari website glints.com dan menampilkan data tersebut dalam bentuk dataframe yang terdiri dari pekerjaan, lokasi dan perusahaan seperti dibawah
 
+![ss5](https://user-images.githubusercontent.com/115530180/213100977-b196b620-e451-4c50-a030-91a9df6e1735.png)
 
 ### PIP list dan PIP --version
-![Screenshot (521)](https://user-images.githubusercontent.com/115530180/213074243-3aabe693-d20b-42b9-8fb8-67ac7973fb20.png)
+![ss6](https://user-images.githubusercontent.com/115530180/213101203-e13284fc-8a2e-44bf-a56b-862ca559e052.png)
+
+![ss7](https://user-images.githubusercontent.com/115530180/213101235-2ae5ce99-3a8f-4a5c-99df-8048ebfd02a3.png)
 
 
