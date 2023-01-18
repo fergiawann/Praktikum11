@@ -1,5 +1,6 @@
 # Praktikum11
 # Pertemuan 15
+## Fergiawan Satrio Bagaskoro
 ## Python PIP
 PIP adalah singkatan dari Python Package Index. Ini adalah sistem manajemen paket yang digunakan untuk menginstal dan mengelola paket perangkat lunak yang ditulis dalam bahasa pemrograman Python. PIP memungkinkan Anda untuk mengambil paket yang dikembangkan oleh komunitas Python dan menginstalnya pada komputer Anda, sehingga Anda dapat menggunakan fitur tambahan dan fungsi yang ditawarkan oleh paket tersebut dalam proyek Python Anda.
 
