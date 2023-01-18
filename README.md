@@ -9,4 +9,8 @@ PIP adalah singkatan dari Python Package Index. Ini adalah sistem manajemen pake
 3. PIP list      : digunakan untuk melihat daftar paket python yang sudah diinstal.
 4. PIP --version : digunakan untuk menampilkan informasi detil tentang paket python yang sudah diinstal.
 
+### PIP list dan PIP --version
 ![Screenshot (521)](https://user-images.githubusercontent.com/115530180/213074243-3aabe693-d20b-42b9-8fb8-67ac7973fb20.png)
+
+### PIP install
+![ss2](https://user-images.githubusercontent.com/115530180/213076200-41c751ce-3797-477c-8b66-332d37c5b4e8.png)
